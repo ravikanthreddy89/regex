@@ -1,1 +1,10 @@
 Inspired by the work "CommonRegex" by MadisionMay (github username : "madisionmay").
+
+Email
+=====================================
+ * Works for most combinations
+ * Doesn't work if email address contains white spaces and single word domain names (eg postbox@com )
+
+
+_
+
